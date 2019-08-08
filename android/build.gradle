@@ -75,7 +75,7 @@ dependencies {
   implementation 'com.facebook.react:react-native:+'
   implementation "com.google.zxing:core:3.3.3"
   implementation "com.drewnoakes:metadata-extractor:2.11.0"
-  generalImplementation "com.google.android.gms:play-services-vision:$googlePlayServicesVisionVersion"
+  implementation "com.google.android.gms:play-services-vision:16.2.0"
   implementation "androidx.exifinterface:exifinterface:1.0.0"
   implementation "androidx.annotation:annotation:1.0.0"
   implementation "androidx.legacy:legacy-support-v4:1.0.0"
